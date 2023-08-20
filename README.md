@@ -11,6 +11,7 @@
 - If you run out of ammo pick up an ammo box (the cubes that spawn around you)
 
 # Notes:
--if you resize the window the game breaks sooooo...
+- if you resize the window the game breaks sooooo...
+- if you just want to try out the game then download the .rar file!
 
 ![Screenshot 2023-08-20 172427](https://github.com/YousefMostafaFarouk/AsteroidShooter/assets/129290213/43941695-6cf1-41c9-80bc-a7cc664f734c)
