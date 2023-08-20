@@ -12,3 +12,5 @@
 
 # Notes:
 -if you resize the window the game breaks sooooo...
+
+![Screenshot 2023-08-20 172427](https://github.com/YousefMostafaFarouk/AsteroidShooter/assets/129290213/43941695-6cf1-41c9-80bc-a7cc664f734c)
