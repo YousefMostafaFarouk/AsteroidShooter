@@ -123,6 +123,9 @@ http://www.twitch.tv/javidx9
 #pragma once
 #pragma comment(lib, "winmm.lib")
 
+#define UNICODE
+#define _UNICODE
+
 #ifndef UNICODE
 #error Please enable UNICODE for your compiler! VS: Project Properties -> General -> \
 Character Set -> Use Unicode. Thanks! - Javidx9
