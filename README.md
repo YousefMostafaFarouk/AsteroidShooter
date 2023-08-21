@@ -7,11 +7,11 @@
 - The arrow keys move you up and down, left and right.
 
 # Objective:
-- Kill as many asteroids as you can to get the highest score! (or just edit the highscore file :P).
+- Kill as many asteroids as you can to get the highest score! (or just edit the highscore file).
 - If you run out of ammo pick up an ammo box (the cubes that spawn around you).
 
 # Notes:
-- If you resize the window the game breaks sooooo...
+- If you resize the window the game breaks.
 - If you just want to try out the game then download the release file!
 # How to run:
 - If you are using VisualStudio then simply open the solution file and run it.
